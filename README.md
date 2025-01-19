@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# deneme
+
+# Arbometer
 
 A new Flutter project.
 
